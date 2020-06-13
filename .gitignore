@@ -1,0 +1,8 @@
+input/glove.6B/glove.6B*
+input/jigsaw-toxic-comment-classification-challenge/test.csv
+input/jigsaw-toxic-comment-classification-challenge/train.csv
+input/jigsaw-toxic-comment-classification-challenge/test_with_augmentation.csv
+output/model_final.h5
+.ipynb_checkpoints/
+.DS_Store
+venv/
